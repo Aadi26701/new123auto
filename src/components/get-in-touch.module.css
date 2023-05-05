@@ -1,0 +1,8 @@
+.getInTouch {
+  position: absolute;
+  top: 1941px;
+  left: 202px;
+  color: var(--color-white);
+  text-align: left;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}

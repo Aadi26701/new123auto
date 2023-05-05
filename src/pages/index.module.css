@@ -1,0 +1,375 @@
+.stack11Icon {
+  position: absolute;
+  top: 1577px;
+  left: 198px;
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+}
+.aboutUsChild,
+.aboutUsInner,
+.aboutUsItem {
+  position: absolute;
+  top: 968px;
+  left: 278px;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 435px;
+  height: 476px;
+}
+.aboutUsInner,
+.aboutUsItem {
+  left: 742px;
+}
+.aboutUsInner {
+  left: 1206px;
+}
+.aboutUs1,
+.members {
+  position: absolute;
+  top: 152px;
+  left: 202px;
+  text-align: left;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.members {
+  top: 766px;
+  left: 802px;
+}
+.blankLine {
+  margin-block-start: 0;
+  margin-block-end: 12px;
+}
+.blankLine2 {
+  margin: 0;
+}
+.acCursusExContainer {
+  position: absolute;
+  top: 291px;
+  left: 202px;
+  font-size: var(--font-size-5xl);
+  line-height: 143.9%;
+  font-weight: 300;
+  text-align: left;
+  display: inline-block;
+  width: 758px;
+  height: 398px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.angelLopez,
+.carlosSanchez {
+  top: 1170px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.angelLopez {
+  position: absolute;
+  left: 844px;
+  line-height: 143.9%;
+  display: inline-block;
+  width: 231px;
+  height: 38px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.carlosSanchez {
+  left: 353px;
+  width: 285px;
+}
+.carlosSanchez,
+.ceofounder,
+.crasDonecEx,
+.crasDonecEx1,
+.crasDonecEx2,
+.cso,
+.cto,
+.jonathanOcampo {
+  position: absolute;
+  line-height: 143.9%;
+  display: inline-block;
+  height: 38px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.jonathanOcampo {
+  top: 1170px;
+  left: 1251px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  width: 345px;
+}
+.ceofounder,
+.crasDonecEx,
+.crasDonecEx1,
+.crasDonecEx2,
+.cso,
+.cto {
+  top: 1217px;
+  left: 866px;
+  font-size: var(--font-size-xl);
+  width: 187px;
+}
+.crasDonecEx,
+.crasDonecEx1,
+.crasDonecEx2,
+.cso,
+.cto {
+  left: 402px;
+}
+.crasDonecEx,
+.crasDonecEx1,
+.crasDonecEx2,
+.cso {
+  left: 1330px;
+}
+.crasDonecEx,
+.crasDonecEx1,
+.crasDonecEx2 {
+  top: 1275px;
+  left: 822px;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  width: 275px;
+}
+.crasDonecEx1,
+.crasDonecEx2 {
+  left: 358px;
+}
+.crasDonecEx2 {
+  left: 1286px;
+}
+.frameButton {
+  position: absolute;
+  top: 2004px;
+  left: 1384px;
+}
+.acCursusExContainer1 {
+  position: absolute;
+  top: 2057px;
+  left: 202px;
+  font-size: var(--font-size-5xl);
+  line-height: 143.9%;
+  font-weight: 300;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 758px;
+  height: 117px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.treesIcon1 {
+  position: absolute;
+  top: 222px;
+  left: 1226px;
+  width: 412px;
+  height: 412px;
+  object-fit: cover;
+}
+.aboutUsChild1,
+.aboutUsChild2,
+.ellipseIcon {
+  position: absolute;
+  top: 1001px;
+  left: 883px;
+  width: 155px;
+  height: 155px;
+  object-fit: cover;
+}
+.aboutUsChild1,
+.aboutUsChild2 {
+  left: 419px;
+}
+.aboutUsChild2 {
+  left: 1347px;
+}
+.github1Icon,
+.twitter11Icon,
+.twitter12Icon,
+.twitter13Icon {
+  position: absolute;
+  top: 1366px;
+  left: 945px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.github1Icon,
+.twitter12Icon,
+.twitter13Icon {
+  left: 481px;
+}
+.github1Icon,
+.twitter13Icon {
+  left: 1409px;
+}
+.github1Icon {
+  left: 879px;
+}
+.github2Icon,
+.github3Icon,
+.instagram1Icon,
+.instagram2Icon,
+.instagram3Icon {
+  position: absolute;
+  top: 1366px;
+  left: 415px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.github3Icon,
+.instagram1Icon,
+.instagram2Icon,
+.instagram3Icon {
+  left: 1343px;
+}
+.instagram1Icon,
+.instagram2Icon,
+.instagram3Icon {
+  left: 1011px;
+}
+.instagram2Icon,
+.instagram3Icon {
+  left: 547px;
+}
+.instagram3Icon {
+  left: 1475px;
+}
+.ifYoudLikeContainer {
+  position: absolute;
+  top: 4218px;
+  left: 492px;
+  font-size: var(--font-size-5xl);
+  line-height: 143.9%;
+  font-weight: 300;
+  display: inline-block;
+  width: 935px;
+  height: 90px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 4352px;
+  left: 351px;
+  background-color: rgba(235, 235, 235, 0.5);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 1217px;
+  height: 128px;
+}
+.leave51Icon,
+.leave52Icon,
+.leave56Icon,
+.leave57Icon,
+.leave58Icon,
+.leave59Icon {
+  position: absolute;
+  top: 747px;
+  left: 715px;
+  width: 85px;
+  height: 85px;
+  object-fit: cover;
+}
+.leave52Icon,
+.leave56Icon,
+.leave57Icon,
+.leave58Icon,
+.leave59Icon {
+  left: 1119px;
+}
+.leave56Icon,
+.leave57Icon,
+.leave58Icon,
+.leave59Icon {
+  top: 2564px;
+  left: 743px;
+}
+.leave57Icon,
+.leave58Icon,
+.leave59Icon {
+  top: 4077px;
+  left: 609px;
+}
+.leave57Icon,
+.leave59Icon {
+  top: 2564px;
+  left: 1147px;
+}
+.leave59Icon {
+  top: 4077px;
+  left: 1229px;
+}
+.leave31Icon,
+.leave33Icon,
+.leave43Icon {
+  position: absolute;
+  top: 1336px;
+  left: 320px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.leave31Icon,
+.leave33Icon {
+  top: 1204px;
+  left: 625px;
+  width: 60.57px;
+  height: 60.57px;
+}
+.leave33Icon {
+  top: 98px;
+  left: 545px;
+  width: 72.28px;
+  height: 72.29px;
+}
+.leave32Icon,
+.leave54Icon,
+.leave55Icon {
+  position: absolute;
+  top: 1326px;
+  left: 1249px;
+  width: 60.57px;
+  height: 60.57px;
+  object-fit: cover;
+}
+.leave54Icon,
+.leave55Icon {
+  top: 1207px;
+  left: 787px;
+  width: 57.77px;
+  height: 57.77px;
+}
+.leave55Icon {
+  top: 1326px;
+  left: 1087px;
+  width: 42.92px;
+  height: 42.92px;
+}
+.leave44Icon,
+.leave45Icon,
+.leave46Icon {
+  position: absolute;
+  top: 1243px;
+  left: 1558px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.leave45Icon,
+.leave46Icon {
+  top: 3797px;
+  left: 313px;
+}
+.leave46Icon {
+  top: 4061px;
+  left: 1601px;
+  width: 70.94px;
+  height: 70.94px;
+}
+.aboutUs {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4739px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

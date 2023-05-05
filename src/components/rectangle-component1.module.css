@@ -1,0 +1,8 @@
+.aboutUsChild {
+  position: absolute;
+  top: 1801px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1920px;
+  height: 513px;
+}
